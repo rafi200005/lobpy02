@@ -38,3 +38,9 @@ uts = input("Masukkan nilai UTS:")
 uas = input("Masukkan nilai UAS:")
 tugas = input("Masukkan nilai Tugas:")
 ````
+
+fungsi input() digunakan untuk memasukkan data atau informasi ke dalam sistem atau program komputer,
+
+```python
+akhir = (int(tugas) * .2) + (int(uts) * .4) + (int(uas) * .4)
+````
