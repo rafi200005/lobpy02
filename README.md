@@ -382,7 +382,7 @@ saya memasukan desision else ini Karna jika menjawab selain fungsi operator ini 
 
 dan ini hasil program tersebut:
 
-![380426540-1f2cbc43-4e37-4403-ac35-c1c127ba543b](https://github.com/user-attachments/assets/8af765d2-c2fa-4c26-8997-54c8f7fe73e9)
+![Screenshot 2024-10-28 195754](https://github.com/user-attachments/assets/0313daca-1c4f-4548-9061-041ddff98f44)
 
 Eksekusi program tersebut:
 
