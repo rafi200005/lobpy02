@@ -1,0 +1,24 @@
+harga_reguler = 50000
+harga_vip = 100000
+diskon_member = 0.20
+
+# Input dari user
+tipe_tiket = input("Masukkan tipe tiket (reguler/VIP): ").lower()
+is_member = input("Apakah Anda memiliki kartu member? (y/n): ").lower()
+
+# Menghitung harga berdasarkan tipe tiket
+if tipe_tiket == "reguler":
+    harga_tiket = harga_reguler
+elif tipe_tiket == "vip":
+    harga_tiket = harga_vip
+else:
+    print("Tipe tiket tidak valid!")
+    exit()
+
+# Menghitung diskon jika user memiliki member
+if is_member == "y":
+    harga_tiket *= (1 - diskon_member)
+    print(f"total harga adalah: {harga_tiket}")
+elif is_member == "n":
+    harga_tiket
+    print(f"total harga adalah: {harga_tiket}")
